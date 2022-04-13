@@ -221,6 +221,7 @@ doSomething(OptionModes{.highSpeed = false, .optimize=true, .debug=true });
 doSomething(OptionModes{.highSpeed = true});
 ```
 
+### N6. Copy elision (TBD)
 
 ### C++ libraries:
 - State Machine Language https://github.com/boost-ext/sml
