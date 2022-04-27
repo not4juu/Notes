@@ -106,6 +106,8 @@ https://www.youtube.com/watch?v=TmWc4mdLmvQ&ab_channel=CppNow
 
 python lizard.py -CCN 10 -w someFileToParese.cppreference
 
+TBD - cognitive complexity, logical complexity
+
 ### N4. Short-Circuiting Evaluation in C++ and Linux
 
 Some compiler can allow you to disabled this option like: gcc *-fno-short-circuit-optimize*
